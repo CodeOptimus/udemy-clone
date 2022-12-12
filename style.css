@@ -97,16 +97,17 @@ h2 {
   display: grid;
   height: 380px;
   background-image: url(images/background1.jpg);
+
   grid-template-columns: 25%;
   background-repeat: no-repeat;
 }
 
-  /* margin-left: 20%;
+  margin-left: 20%;
   background-color: white;
   width: 400px;
   margin-top: 50px;
   margin-bottom: 60px;
-  padding: 15px; */
+  padding: 15px;
 
 .b-font {
   font-size: 26px;
